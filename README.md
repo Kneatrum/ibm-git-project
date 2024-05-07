@@ -1,6 +1,7 @@
-[# IBM Git Final Project
-Creating a standard Git repository
-
-# Details
-This repository contains a sample code to calculate simple interest
-](https://github.com/Kneatrum/jbbmo-Introduction-to-Git-and-GitHub/branches)
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
