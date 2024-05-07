@@ -1,1 +1,1 @@
-# ibm-git-project
+# coding-project-template
